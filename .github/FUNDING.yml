@@ -1,0 +1,4 @@
+# Default sponsor button for every repository owned by ozanmora that has no FUNDING.yml of its own.
+# The button is shown only in repositories where Settings › General › Features › Sponsorships is enabled.
+github: ozanmora
+buy_me_a_coffee: ozanmora
